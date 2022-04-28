@@ -1,0 +1,11 @@
+inicio
+
+	se idoso,deficiente ou gestante = sim faça
+		você pode estacionar no local
+	fimse
+
+	senao 
+		você não pode estacionar no local
+	fimse
+
+fim
