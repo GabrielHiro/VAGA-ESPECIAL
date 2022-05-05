@@ -1,6 +1,6 @@
 # calculo-de-media
 
-## de: Gabriel Hiro Furukawa
+### de: Gabriel Hiro Furukawa
 
 # **ALGORITMO**
 
