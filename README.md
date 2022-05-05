@@ -1,4 +1,4 @@
-# calculo-de-media
+# VAGA-ESPECIAL
 
 ### de: Gabriel Hiro Furukawa
 
